@@ -11,6 +11,7 @@ Before doing anything else:
 2. Read **`USER.md`**
 3. Read **`memory/YYYY-MM-DD.md`**（錨點上的今日 + 昨日）；當日檔不存在則 **建立** 一則起始行。
 4. Read **`MEMORY.md`** — 與 owner（`discord:741212485981569076`）對話時**每一輪**都要 read；要長期記得必須 **write/edit 檔案**。
+4b. **多專案時**（同時追多個客戶／專案）：讀 **`PROJECTS_BOARD.md`**，再讀當事專案的 **`memory/projects/<slug>.md`**（若無則依看板建立 slug 檔）。單一專案時可略讀看板。
 5. **（節奏）** 每週／每月是否需更新 → 依 **`memory/CADENCE.md`**；週月內容只寫 **DropOut**，**禁止**從夢想一號 workspace 複製記憶。
 6. 若 OpenClaw 提供 `memory_search` / `memory_get`，找舊約定時優先用工具。
 

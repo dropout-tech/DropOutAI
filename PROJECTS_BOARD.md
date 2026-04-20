@@ -7,8 +7,9 @@
 
 | 專案（對外名稱） | slug | 狀態 | 下一步（一句） | 細節檔 |
 |------------------|------|------|------------------|--------|
-| （範例，請改真實）九豆柴房 | jiudouchaifang | 進行中 | 待補 | [memory/projects/九豆柴房.md](memory/projects/九豆柴房.md) |
-| （待新增） | | | | |
+| Lets-Play | lets-play | 進行中 | 技術開發階段，面臨時間壓力與測試挑戰 | [memory/projects/lets-play.md](memory/projects/lets-play.md) |
+| 富據智能-Fortune-AI | fortune-ai | 進行中 | 商業流程成熟，需協調時間安排與報價管理 | [memory/projects/fortune-ai.md](memory/projects/fortune-ai.md) |
+| 九豆柴房 | jiudouchaifang | 進行中 | 官網開發與上線準備，4/18有重要實體會議 | [memory/projects/jiudouchaifang.md](memory/projects/jiudouchaifang.md) |
 
 ## 狀態建議用語
 

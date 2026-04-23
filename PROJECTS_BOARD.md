@@ -7,9 +7,9 @@
 
 | 專案（對外名稱） | slug | 狀態 | 下一步（一句） | 細節檔 |
 |------------------|------|------|------------------|--------|
-| Lets-Play | lets-play | 進行中 | 技術開發階段，面臨時間壓力與測試挑戰 | [memory/projects/lets-play.md](memory/projects/lets-play.md) |
-| 富據智能-Fortune-AI | fortune-ai | 進行中 | 商業流程成熟，需協調時間安排與報價管理 | [memory/projects/fortune-ai.md](memory/projects/fortune-ai.md) |
-| 九豆柴房 | jiudouchaifang | 進行中 | 官網開發與上線準備，4/18有重要實體會議 | [memory/projects/jiudouchaifang.md](memory/projects/jiudouchaifang.md) |
+| Lets-Play | lets-play | 進行中 | 4/23 晚上(或4/24)團隊同步近期功能(補課/教練管理)與測試進度 | [memory/projects/lets-play.md](memory/projects/lets-play.md) |
+| 富據智能-Fortune-AI | fortune-ai | 進行中 | 持續追蹤 Andrew 資料，評估 Wix 方案限制與替代可行性 | [memory/projects/fortune-ai.md](memory/projects/fortune-ai.md) |
+| 九豆柴房 | jiudouchaifang | 進行中 | 4/18 會議延至 5/09；追蹤三姐行政文件進度，準備後續簡報演練 | [memory/projects/jiudouchaifang.md](memory/projects/jiudouchaifang.md) |
 
 ## 狀態建議用語
 

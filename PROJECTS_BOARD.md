@@ -8,8 +8,8 @@
 | 專案（對外名稱） | slug | 狀態 | 下一步（一句） | 細節檔 |
 |------------------|------|------|------------------|--------|
 | Lets-Play | lets-play | 進行中 | 4/23 晚上(或4/24)團隊同步近期功能(補課/教練管理)與測試進度 | [memory/projects/lets-play.md](memory/projects/lets-play.md) |
-| 富據智能-Fortune-AI | fortune-ai | 進行中 | @dodo 已完成 Wix 評估；下一步：討論是否轉向 Shopify 或 Medusa | [memory/projects/fortune-ai.md](memory/projects/fortune-ai.md) |
-| 九豆柴房 | jiudouchaifang | 進行中 | 4/24 進行第二次演練；持續追蹤三姐行政文件進度 | [memory/projects/jiudouchaifang.md](memory/projects/jiudouchaifang.md) |
+| 富據智能-Fortune-AI | fortune-ai | 進行中 | 已產出 Shopify vs Medusa 對比；下一步：由嘉尹/宜津與客戶確認選型偏好 | [memory/projects/fortune-ai.md](memory/projects/fortune-ai.md) |
+| 九豆柴房 | jiudouchaifang | 進行中 | 5/1 進行第二次演練；持續追蹤三姐行政文件進度 | [memory/projects/jiudouchaifang.md](memory/projects/jiudouchaifang.md) |
 
 ## 狀態建議用語
 

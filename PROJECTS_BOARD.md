@@ -10,6 +10,8 @@
 | Lets-Play | lets-play | 進行中 | 4/23 晚上(或4/24)團隊同步近期功能(補課/教練管理)與測試進度 | [memory/projects/lets-play.md](memory/projects/lets-play.md) |
 | 富據智能-Fortune-AI | fortune-ai | 進行中 | 已產出 Shopify vs Medusa 對比；下一步：由嘉尹/宜津與客戶確認選型偏好 | [memory/projects/fortune-ai.md](memory/projects/fortune-ai.md) |
 | 九豆柴房 | jiudouchaifang | 進行中 | 5/1 進行第二次演練；持續追蹤三姐行政文件進度 | [memory/projects/jiudouchaifang.md](memory/projects/jiudouchaifang.md) |
+| 愛羽球 | love-badminton | 洽談中 | 4/9 已進行開案前討論；待後續正式合作確認 | [memory/projects/love-badminton.md](memory/projects/love-badminton.md) |
+| SITI 補助 | siti-subsidy | 進行中 | 已完成實施進度與里程碑草案；下一步：與執行長確認預算總額上限並由技術總監挑選研發項目 | [memory/projects/siti-subsidy.md](memory/projects/siti-subsidy.md) |
 
 ## 狀態建議用語
 

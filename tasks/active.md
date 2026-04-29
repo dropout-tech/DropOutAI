@@ -67,6 +67,11 @@
   - **狀態**: [已完成] (已總結本週所有進展並更新週回顧檔)
   - **目標**: 總結 4/20-4/26 的所有進展（包含 SITI 專案大量產出），更新 `memory/WEEKLY_REVIEW.md`。
 
+- [x] **[TASK-021] 準備 4 月份月回顧 (Monthly Review)** ✓ 完成於 2026-04-29
+  - **負責人**: @dodo
+  - **狀態**: [已完成]
+  - **目標**: 彙整 4 月份所有週回顧與重大里程碑，更新 `memory/MONTHLY_REVIEW.md`。
+
 - [ ] **[TASK-010] 九豆柴房 5/1 第二次簡報演練追蹤** [MOVED TO BLOCKED.md]
 - [ ] **[TASK-005] Lets-Play 團隊會議後續追蹤與任務更新** [MOVED TO BLOCKED.md]
 - [ ] **[TASK-014] SITI 補助：確認預算總額與徵詢研發需求** [MOVED TO BLOCKED.md]

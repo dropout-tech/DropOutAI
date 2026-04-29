@@ -72,6 +72,11 @@
   - **狀態**: [已完成]
   - **目標**: 彙整 4 月份所有週回顧與重大里程碑，更新 `memory/MONTHLY_REVIEW.md`。
 
+- [x] **[TASK-022] 撰寫 dodo 工作計畫書 (DODO_WORK_PLAN.md)** ✓ 完成於 2026-04-29
+  - **負責人**: @dodo
+  - **狀態**: [已完成]
+  - **目標**: 為 dodo 助理建立核心運作邏輯與 2026 Q2 目標，落實「Drop Out the Chaos」理念。
+
 - [ ] **[TASK-010] 九豆柴房 5/1 第二次簡報演練追蹤** [MOVED TO BLOCKED.md]
 - [ ] **[TASK-005] Lets-Play 團隊會議後續追蹤與任務更新** [MOVED TO BLOCKED.md]
 - [ ] **[TASK-014] SITI 補助：確認預算總額與徵詢研發需求** [MOVED TO BLOCKED.md]

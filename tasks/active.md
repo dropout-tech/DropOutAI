@@ -77,6 +77,11 @@
   - **狀態**: [已完成]
   - **目標**: 為 dodo 助理建立核心運作邏輯與 2026 Q2 目標，落實「Drop Out the Chaos」理念。
 
+- [x] **[TASK-023] 產出 SITI 與 Lets-Play 的精簡決策建議 (回應 Yijin 4/30 需求)** ✓ 完成於 2026-04-30
+  - **負責人**: @dodo
+  - **狀態**: [已完成] (產出決策建議卡於 tasks/DECISION_SUGGESTIONS_2026-04-30.md)
+  - **目標**: 針對 SITI 預算與 Lets-Play 頻道阻塞，提供精簡的決策卡，協助團隊快速點頭解鎖。
+
 - [ ] **[TASK-010] 九豆柴房 5/1 第二次簡報演練追蹤** [MOVED TO BLOCKED.md]
 - [ ] **[TASK-005] Lets-Play 團隊會議後續追蹤與任務更新** [MOVED TO BLOCKED.md]
 - [ ] **[TASK-014] SITI 補助：確認預算總額與徵詢研發需求** [MOVED TO BLOCKED.md]

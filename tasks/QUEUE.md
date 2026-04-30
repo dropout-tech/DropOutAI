@@ -14,6 +14,7 @@
 - [x] (已完成) [TASK-020] 執行 W17 週回顧結案 (總結本週所有進展) (2026-04-26)
 - [x] (已完成) [TASK-021] 準備 4 月份月回顧 (Monthly Review) (2026-04-29)
 - [x] (已完成) [TASK-022] 撰寫 dodo 工作計畫書 (DODO_WORK_PLAN.md) (2026-04-29)
+- [x] (已完成) [TASK-023] 產出 SITI 與 Lets-Play 的精簡決策建議 (回應 Yijin 4/30 需求) (2026-04-30)
 - [ ] (BLOCKED) [TASK-010] 九豆柴房 5/1 第二次簡報演練追蹤
 - [ ] (BLOCKED) [TASK-005] 獲取 Lets-Play 4/23 會議結論與更新技術待辦
 - [ ] (BLOCKED) [TASK-014] SITI 補助：確認預算總額與徵詢研發需求 (已產出調查表於 tasks/SITI_TECH_SURVEY.md)

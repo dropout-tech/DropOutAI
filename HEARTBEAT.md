@@ -14,7 +14,8 @@
 ## 2. 工作模式
 
 1. 讀 **`MEMORY.md`**、**`tasks/QUEUE.md`**；掃一眼 **`memory/PENDING_DECISIONS.md`** 是否有新的「待確認」。
-2. 依 **`memory/CADENCE.md`**：是否到了**週回顧／月回顧**時機？若是 → 更新 **`WEEKLY_REVIEW.md`** 或 **`MONTHLY_REVIEW.md`**（只根據本 repo，不從他公司複製）。
+2. **團隊協助提醒 (Team Reminder)**：每日 10:30 (或今日首輪 Heartbeat) 檢查 `TEAM_ASSISTANCE_MATRIX.md`，主動詢問成員三問提醒，落實協助計畫。
+3. 依 **`memory/CADENCE.md`**：是否到了**週回顧／月回顧**時機？若是 → 更新 **`WEEKLY_REVIEW.md`** 或 **`MONTHLY_REVIEW.md`**（只根據本 repo，不從他公司複製）。
 3. 若有 **Ready** 任務，挑一項推進並更新 **`tasks/QUEUE.md`**。
 4. 無需發 Discord 時 → 回 **`HEARTBEAT_OK`**；需提醒 owner → **一句話**簡短（勿長篇範本）。
 

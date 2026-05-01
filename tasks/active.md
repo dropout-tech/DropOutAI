@@ -84,5 +84,10 @@
 
 - [ ] **[TASK-010] 九豆柴房 5/1 第二次簡報演練追蹤** [MOVED TO BLOCKED.md]
 - [ ] **[TASK-005] Lets-Play 團隊會議後續追蹤與任務更新** [MOVED TO BLOCKED.md]
+- [x] **[TASK-024] 執行 W18 週回顧與 Autopilot 任務推進 (2026-05-01)** ✓ 完成於 2026-05-01
 - [ ] **[TASK-014] SITI 補助：確認預算總額與徵詢研發需求** [MOVED TO BLOCKED.md]
+- [x] **[TASK-REMIND] 執行團隊協助三問提醒 (2026-05-01)** ✓ 完成於 2026-05-01
+  - **負責人**: @dodo
+  - **狀態**: [已完成]
+  - **目標**: 執行 5/1 Autopilot 流程，更新任務狀態並嘗試解除 SITI 與 Lets-Play 阻塞。
 

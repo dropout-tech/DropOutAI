@@ -46,3 +46,11 @@
   2. `nano-banana-pro` 技能所需的環境變數配置
   3. 圖像生成功能的測試授權
 - **備註**: 已透過直接指令測試路徑功能，確認系統限制需在未來透過代理中繼規避
+
+### [BLOCKED-006] 執行團隊協助三問提醒 (2026-05-02) [TASK-REMIND]
+- **阻塞原因**: Autopilot (Isolated Cron) 環境無法直接向 Discord 頻道發送訊息。
+- **當前狀態**: 2:00 AM 巡檢觸發，但因技術限制無法在自動化排程中送出提醒。
+- **阻塞時間**: 2026-05-02
+- **需要確認事項**: 
+  1. 此類 Discord 提醒任務是否應排除在 Autopilot 挑選範圍外，改由 Heartbeat (Discord Session) 負責？
+  2. 若需由 Autopilot 執行，請提供 Discord 發言權限。

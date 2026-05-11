@@ -4,7 +4,10 @@
 Gateway 設定檔：**`~/.openclaw/dropout.json`**（CLI：**`--profile dropout`**，埠 **19002**）。
 
 - **要在 Discord 啟用 Bot**：請依序做 **[DISCORD-啟用步驟.md](./DISCORD-啟用步驟.md)**。  
-- **與 DreamAI「方法對齊、記憶分離」**：見 **[OPERATIONS-DREAMAI-PARITY.md](./OPERATIONS-DREAMAI-PARITY.md)**、**[memory/CADENCE.md](./memory/CADENCE.md)**。
+- **與 DreamAI「方法對齊、記憶分離」**：見 **[OPERATIONS-DREAMAI-PARITY.md](./OPERATIONS-DREAMAI-PARITY.md)**、**[memory/CADENCE.md](./memory/CADENCE.md)**。  
+- **要把整套 dodo 人格 + 全量記憶遷移到雲端（Zeabur）的 `hermes` agent**：兩份配套文件
+  - **[HERMES-MIGRATION.md](./HERMES-MIGRATION.md)** — 部署藍圖、程式骨架、9 項驗收清單（13 章）。
+  - **[HERMES-BUNDLE.md](./HERMES-BUNDLE.md)** — hermes 必讀的所有 `.md` 一次打包（7 個 Tier、含身份／規則／核心記憶／團隊／專案／節奏／任務／工作計畫）。
 
 ---
 
